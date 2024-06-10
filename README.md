@@ -62,7 +62,7 @@ For a detailed explanation of the project, including methodology, results, and f
     ```
 2. Navigate to the project directory:
     ```sh
-    cd Arabic-Sign-Language-Recognition
+    cd ArSL-ML
     ```
 3. Install the required libraries:
     ```sh
@@ -70,7 +70,7 @@ For a detailed explanation of the project, including methodology, results, and f
     ```
 4. Open the Jupyter Notebook:
     ```sh
-    jupyter notebook
+    jupyter code
     ```
 5. Run the cells in the notebook to execute the project.
 
